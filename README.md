@@ -1,4 +1,4 @@
-## Archive Sisense Elasticube schemes, xml's and ElastiCubeConfiguration.xml
+## Archive Sisense Elasticube scheme, xml and ElastiCubeConfiguration.xml
 
 
 Steps:
